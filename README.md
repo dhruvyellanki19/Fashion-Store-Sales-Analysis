@@ -15,7 +15,7 @@ The fashion retail store seeks to optimize its sales performance by identifying 
 </p>
 
 
-## **Project Ovehttps://github.com/dhruvyellanki19/project_images/blob/8b3eaa95859ff8da716767e5b864f90f5cc0b715/fashion%20retail%20sales%20pic.jpegrview**
+## **Project Overview**
 
 This project presents an in-depth analysis of a fashion retail store's sales performance, customer segmentation, and market trends. The primary objective is to identify revenue drivers, key consumer behavior patterns, and strategic opportunities for business growth. By leveraging data-driven insights, the store can enhance customer engagement, optimize sales channels, and improve profitability.
 
